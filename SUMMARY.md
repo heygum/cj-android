@@ -1,6 +1,5 @@
 # SUMMARY
 
-* [Android JD](android_jd/README.md)
 * [JAVA](java/README.md)
 * [数据结构与算法](algorithm/README.md)
 * [数据库](database/README.md)
