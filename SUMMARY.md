@@ -6,7 +6,7 @@
 
 ---
 
-* [简介](jian-jie.md)
+* [进度](jian-jie.md)
 
 ## 数据结构与算法 <a id="algorithm"></a>
 
