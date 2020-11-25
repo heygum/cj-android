@@ -4,7 +4,10 @@
 
 ## JAVA
 
-* [JAVA](java/java.md)
+* [JAVA](java/java/README.md)
+  * [基础](java/java/ji-chu.md)
+  * [JVM](java/java/jvm.md)
+  * [并发](java/java/bing-fa.md)
 
 ## 数据结构与算法 <a id="algorithm"></a>
 
