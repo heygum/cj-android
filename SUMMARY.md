@@ -2,23 +2,23 @@
 
 * [极](README.md)
 
-## JAVA <a id="java-1"></a>
+## JAVA
 
-* [JAVA](java-1/java.md)
+* [JAVA](java/java.md)
 
-## 数据结构与算法
+## 数据结构与算法 <a id="algorithm"></a>
 
-* [简介](shu-ju-jie-gou-yu-suan-fa/jian-jie.md)
+* [简介](algorithm/jian-jie.md)
 
-## 计算机网络
+## 计算机网络 <a id="network"></a>
 
-* [简介](ji-suan-ji-wang-luo/jian-jie.md)
+* [简介](network/jian-jie.md)
 
-## 操作系统
+## 操作系统 <a id="os"></a>
 
-* [简介](cao-zuo-xi-tong/jian-jie.md)
+* [简介](os/jian-jie.md)
 
-## Android <a id="android-1"></a>
+## Android
 
-* [简介](android-1/jian-jie.md)
+* [简介](android/jian-jie.md)
 
