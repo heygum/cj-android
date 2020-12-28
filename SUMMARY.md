@@ -10,7 +10,7 @@
 
 ## 数据结构与算法 <a id="algorithm"></a>
 
-* [简介](algorithm/jian-jie.md)
+* [进度](algorithm/jian-jie.md)
 
 ## 计算机网络 <a id="network"></a>
 
