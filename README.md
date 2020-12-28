@@ -8,3 +8,5 @@
 
 不在家时的参考资料: [CS\_NOTE](http://www.cyc2018.xyz/)
 
+一些方法论, 前进的方向参考学姐: [777](https://hishark777.gitbook.io/777-interview-notes/)
+
