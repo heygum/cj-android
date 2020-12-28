@@ -14,7 +14,7 @@
 
 ## 计算机网络 <a id="network"></a>
 
-* [简介](network/jian-jie.md)
+* [进度](network/jian-jie.md)
 
 ## 操作系统 <a id="os"></a>
 
