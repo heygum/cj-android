@@ -11,6 +11,19 @@
 ## 数据结构与算法 <a id="algorithm"></a>
 
 * [进度](algorithm/jian-jie.md)
+* [数据结构](algorithm/shu-ju-jie-gou/README.md)
+  * [动态数组](algorithm/shu-ju-jie-gou/dong-tai-shu-zu.md)
+  * [普通队列](algorithm/shu-ju-jie-gou/pu-tong-dui-lie.md)
+  * [链表](algorithm/shu-ju-jie-gou/lian-biao.md)
+  * [栈](algorithm/shu-ju-jie-gou/zhan.md)
+  * [二分搜索树](algorithm/shu-ju-jie-gou/er-fen-sou-suo-shu.md)
+  * [AVL树](algorithm/shu-ju-jie-gou/avl-shu.md)
+  * [红黑树](algorithm/shu-ju-jie-gou/hong-hei-shu.md)
+  * [堆](algorithm/shu-ju-jie-gou/dui.md)
+  * [线段树](algorithm/shu-ju-jie-gou/xian-duan-shu.md)
+  * [Trie](algorithm/shu-ju-jie-gou/trie.md)
+  * [并查集](algorithm/shu-ju-jie-gou/bing-cha-ji.md)
+  * [哈希表](algorithm/shu-ju-jie-gou/ha-xi-biao.md)
 
 ## 计算机网络 <a id="network"></a>
 
