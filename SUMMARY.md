@@ -28,6 +28,7 @@
   * [邻接表](algorithm/shu-ju-jie-gou/lin-jie-biao.md)
   * [邻接矩阵](algorithm/shu-ju-jie-gou/lin-jie-ju-zhen.md)
   * [哈希表](algorithm/shu-ju-jie-gou/ha-xi-biao.md)
+* [剑指OFFER](algorithm/jian-zhi-offer.md)
 
 ## 计算机网络 <a id="network"></a>
 
