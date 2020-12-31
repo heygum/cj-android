@@ -19,6 +19,7 @@
   * [二分搜索树](algorithm/shu-ju-jie-gou/er-fen-sou-suo-shu.md)
   * [AVL树](algorithm/shu-ju-jie-gou/avl-shu.md)
   * [红黑树](algorithm/shu-ju-jie-gou/hong-hei-shu.md)
+  * [B树](algorithm/shu-ju-jie-gou/b-shu.md)
   * [堆](algorithm/shu-ju-jie-gou/dui.md)
   * [线段树](algorithm/shu-ju-jie-gou/xian-duan-shu.md)
   * [Trie](algorithm/shu-ju-jie-gou/trie.md)
