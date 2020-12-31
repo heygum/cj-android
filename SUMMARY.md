@@ -23,6 +23,8 @@
   * [线段树](algorithm/shu-ju-jie-gou/xian-duan-shu.md)
   * [Trie](algorithm/shu-ju-jie-gou/trie.md)
   * [并查集](algorithm/shu-ju-jie-gou/bing-cha-ji.md)
+  * [邻接表](algorithm/shu-ju-jie-gou/lin-jie-biao.md)
+  * [邻接矩阵](algorithm/shu-ju-jie-gou/lin-jie-ju-zhen.md)
   * [哈希表](algorithm/shu-ju-jie-gou/ha-xi-biao.md)
 
 ## 计算机网络 <a id="network"></a>
