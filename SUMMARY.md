@@ -10,6 +10,7 @@
 
 ## 数据结构与算法 <a id="algorithm"></a>
 
+* [简介](algorithm/jian-jie-1.md)
 * [进度](algorithm/jian-jie.md)
 * [数据结构](algorithm/shu-ju-jie-gou/README.md)
   * [动态数组](algorithm/shu-ju-jie-gou/dong-tai-shu-zu.md)
