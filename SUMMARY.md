@@ -33,6 +33,7 @@
   * [04 二维数组中的查找](algorithm/jian-zhi-offer/04-er-wei-shu-zu-zhong-de-cha-zhao.md)
   * [05 替换空格](algorithm/jian-zhi-offer/05-ti-huan-kong-ge.md)
   * [06 从尾到头打印链表](algorithm/jian-zhi-offer/06-cong-wei-dao-tou-da-yin-lian-biao.md)
+  * [07 重建二叉树](algorithm/jian-zhi-offer/07-zhong-jian-er-cha-shu.md)
 
 ## 计算机网络 <a id="network"></a>
 
