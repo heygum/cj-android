@@ -32,6 +32,7 @@
   * [03 数组中重复的数字](algorithm/jian-zhi-offer/03-shu-zu-zhong-zhong-fu-de-shu-zi.md)
   * [04 二维数组中的查找](algorithm/jian-zhi-offer/04-er-wei-shu-zu-zhong-de-cha-zhao.md)
   * [05 替换空格](algorithm/jian-zhi-offer/05-ti-huan-kong-ge.md)
+  * [06 从尾到头打印链表](algorithm/jian-zhi-offer/06-cong-wei-dao-tou-da-yin-lian-biao.md)
 
 ## 计算机网络 <a id="network"></a>
 
