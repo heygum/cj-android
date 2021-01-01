@@ -30,6 +30,7 @@
   * [哈希表](algorithm/shu-ju-jie-gou/ha-xi-biao.md)
 * [剑指OFFER](algorithm/jian-zhi-offer/README.md)
   * [03 数组中重复的数字](algorithm/jian-zhi-offer/03-shu-zu-zhong-zhong-fu-de-shu-zi.md)
+  * [04 二维数组中的查找](algorithm/jian-zhi-offer/04-er-wei-shu-zu-zhong-de-cha-zhao.md)
 
 ## 计算机网络 <a id="network"></a>
 

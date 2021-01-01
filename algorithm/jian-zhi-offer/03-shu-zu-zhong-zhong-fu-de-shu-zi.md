@@ -25,7 +25,7 @@ class Solution {
 }
 ```
 
-**God's Solution \(CS\_Note\): 时间O\(n\) 空间O\(1\)**
+**别人的 Solution \(CS\_Note\): 时间O\(n\) 空间O\(1\)**
 
 ```text
 public boolean duplicate(int[] nums, int length, int[] duplication) {
