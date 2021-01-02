@@ -37,6 +37,7 @@
   * [09 用两个栈实现队列](algorithm/jian-zhi-offer/08-yong-liang-ge-zhan-shi-xian-dui-lie.md)
   * [10-I 斐波那契数列](algorithm/jian-zhi-offer/10i-fei-bo-na-qi-shu-lie.md)
   * [10-II 青蛙跳台阶问题](algorithm/jian-zhi-offer/10ii-qing-wa-tiao-tai-jie-wen-ti.md)
+  * [11 旋转数组的最小数字](algorithm/jian-zhi-offer/11-xuan-zhuan-shu-zu-de-zui-xiao-shu-zi.md)
 
 ## 计算机网络 <a id="network"></a>
 
