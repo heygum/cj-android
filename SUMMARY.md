@@ -35,6 +35,7 @@
   * [06 从尾到头打印链表](algorithm/jian-zhi-offer/06-cong-wei-dao-tou-da-yin-lian-biao.md)
   * [07 重建二叉树](algorithm/jian-zhi-offer/07-zhong-jian-er-cha-shu.md)
   * [09 用两个栈实现队列](algorithm/jian-zhi-offer/08-yong-liang-ge-zhan-shi-xian-dui-lie.md)
+  * [10-I 斐波那契数列](algorithm/jian-zhi-offer/10i-fei-bo-na-qi-shu-lie.md)
 
 ## 计算机网络 <a id="network"></a>
 
