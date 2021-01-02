@@ -4,7 +4,7 @@ description: 2020.01.02
 
 # 10-II 青蛙跳台阶问题
 
-![https://leetcode-cn.com/problems/qing-wa-tiao-tai-jie-wen-ti-lcof/](../../.gitbook/assets/image%20%286%29.png)
+![https://leetcode-cn.com/problems/qing-wa-tiao-tai-jie-wen-ti-lcof/](../../.gitbook/assets/image%20%287%29.png)
 
 我用找规律的方法....发现是斐波那契 于是改了a值复制了过去 ORZ
 
