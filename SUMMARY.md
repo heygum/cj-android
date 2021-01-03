@@ -39,6 +39,7 @@
   * [10-II 青蛙跳台阶问题](algorithm/jian-zhi-offer/10ii-qing-wa-tiao-tai-jie-wen-ti.md)
   * [11 旋转数组的最小数字](algorithm/jian-zhi-offer/11-xuan-zhuan-shu-zu-de-zui-xiao-shu-zi.md)
   * [12 矩阵中的路径](algorithm/jian-zhi-offer/12-ju-zhen-zhong-de-lu-jing.md)
+  * [13 机器人的运动范围](algorithm/jian-zhi-offer/13-ji-qi-ren-de-yun-dong-fan-wei.md)
 
 ## 计算机网络 <a id="network"></a>
 
