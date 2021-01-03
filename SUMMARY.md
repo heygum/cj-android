@@ -40,6 +40,7 @@
   * [11 旋转数组的最小数字](algorithm/jian-zhi-offer/11-xuan-zhuan-shu-zu-de-zui-xiao-shu-zi.md)
   * [12 矩阵中的路径](algorithm/jian-zhi-offer/12-ju-zhen-zhong-de-lu-jing.md)
   * [13 机器人的运动范围](algorithm/jian-zhi-offer/13-ji-qi-ren-de-yun-dong-fan-wei.md)
+  * [14-I 剪绳子](algorithm/jian-zhi-offer/14i-jian-sheng-zi.md)
 
 ## 计算机网络 <a id="network"></a>
 
