@@ -42,6 +42,7 @@
   * [13 机器人的运动范围](algorithm/jian-zhi-offer/13-ji-qi-ren-de-yun-dong-fan-wei.md)
   * [14-I 剪绳子](algorithm/jian-zhi-offer/14i-jian-sheng-zi.md)
   * [14-II 剪绳子 II](algorithm/jian-zhi-offer/14ii-jian-sheng-zi-ii.md)
+  * [15 二进制中1的个数](algorithm/jian-zhi-offer/15-er-jin-zhi-zhong-1-de-ge-shu.md)
 
 ## 计算机网络 <a id="network"></a>
 
