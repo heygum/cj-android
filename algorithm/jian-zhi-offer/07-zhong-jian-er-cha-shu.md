@@ -4,7 +4,7 @@ description: 2020.01.01
 
 # 07 重建二叉树
 
-![https://leetcode-cn.com/problems/zhong-jian-er-cha-shu-lcof/](../../.gitbook/assets/image%20%2812%29.png)
+![https://leetcode-cn.com/problems/zhong-jian-er-cha-shu-lcof/](../../.gitbook/assets/image%20%2813%29.png)
 
 
 

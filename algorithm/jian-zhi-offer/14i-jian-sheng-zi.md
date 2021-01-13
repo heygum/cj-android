@@ -4,7 +4,7 @@ description: 2020.01.03
 
 # 14-I 剪绳子
 
-![https://leetcode-cn.com/problems/jian-sheng-zi-lcof/](../../.gitbook/assets/image%20%2810%29.png)
+![https://leetcode-cn.com/problems/jian-sheng-zi-lcof/](../../.gitbook/assets/image%20%2811%29.png)
 
 别人的Solution:
 
