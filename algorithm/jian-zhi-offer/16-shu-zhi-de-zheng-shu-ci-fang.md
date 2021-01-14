@@ -4,7 +4,7 @@ description: 2020.01.10
 
 # 16 数值的整数次方
 
-![https://leetcode-cn.com/problems/shu-zhi-de-zheng-shu-ci-fang-lcof/](../../.gitbook/assets/image%20%2814%29.png)
+![https://leetcode-cn.com/problems/shu-zhi-de-zheng-shu-ci-fang-lcof/](../../.gitbook/assets/image%20%2815%29.png)
 
 大佬的解题:
 

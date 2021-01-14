@@ -4,7 +4,7 @@ description: 2021.01.02
 
 # 09 用两个栈实现队列
 
-![https://leetcode-cn.com/problems/yong-liang-ge-zhan-shi-xian-dui-lie-lcof/](../../.gitbook/assets/image%20%2815%29.png)
+![https://leetcode-cn.com/problems/yong-liang-ge-zhan-shi-xian-dui-lie-lcof/](../../.gitbook/assets/image%20%2816%29.png)
 
 Noob's Solution \(互相倒\):
 

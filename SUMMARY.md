@@ -45,6 +45,7 @@
   * [15 二进制中1的个数](algorithm/jian-zhi-offer/15-er-jin-zhi-zhong-1-de-ge-shu.md)
   * [16 数值的整数次方](algorithm/jian-zhi-offer/16-shu-zhi-de-zheng-shu-ci-fang.md)
   * [17 打印从1到最大的n位数](algorithm/jian-zhi-offer/17-da-yin-cong-1-dao-zui-da-denwei-shu.md)
+  * [18 删除链表的节点](algorithm/jian-zhi-offer/18-shan-chu-lian-biao-de-jie-dian.md)
 
 ## 计算机网络 <a id="network"></a>
 

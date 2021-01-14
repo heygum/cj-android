@@ -4,7 +4,7 @@ description: '2020-01-04'
 
 # 14-II 剪绳子 II
 
-![https://leetcode-cn.com/problems/jian-sheng-zi-ii-lcof/](../../.gitbook/assets/image%20%2810%29.png)
+![https://leetcode-cn.com/problems/jian-sheng-zi-ii-lcof/](../../.gitbook/assets/image%20%2811%29.png)
 
 ```text
 class Solution {

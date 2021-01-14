@@ -4,7 +4,7 @@ description: 2020.01.02
 
 # 10-I 斐波那契数列
 
-![https://leetcode-cn.com/problems/fei-bo-na-qi-shu-lie-lcof/](../../.gitbook/assets/image%20%2816%29.png)
+![https://leetcode-cn.com/problems/fei-bo-na-qi-shu-lie-lcof/](../../.gitbook/assets/image%20%2817%29.png)
 
 ```text
 class Solution {
