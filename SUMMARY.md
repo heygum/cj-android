@@ -47,6 +47,7 @@
   * [17 打印从1到最大的n位数](algorithm/jian-zhi-offer/17-da-yin-cong-1-dao-zui-da-denwei-shu.md)
   * [18 删除链表的节点](algorithm/jian-zhi-offer/18-shan-chu-lian-biao-de-jie-dian.md)
   * [19 正则表达式匹配](algorithm/jian-zhi-offer/19-zheng-ze-biao-da-shi-pi-pei.md)
+  * [20 表达数值的字符串](algorithm/jian-zhi-offer/20-biao-da-shu-zhi-de-zi-fu-chuan.md)
 
 ## 计算机网络 <a id="network"></a>
 
