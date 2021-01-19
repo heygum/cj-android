@@ -48,6 +48,7 @@
   * [18 删除链表的节点](algorithm/jian-zhi-offer/18-shan-chu-lian-biao-de-jie-dian.md)
   * [19 正则表达式匹配](algorithm/jian-zhi-offer/19-zheng-ze-biao-da-shi-pi-pei.md)
   * [20 表达数值的字符串](algorithm/jian-zhi-offer/20-biao-da-shu-zhi-de-zi-fu-chuan.md)
+  * [21 调整数组顺序使奇数位于偶数前面](algorithm/jian-zhi-offer/21-tiao-zheng-shu-zu-shun-xu-shi-qi-shu-wei-yu-ou-shu-qian-mian.md)
 
 ## 计算机网络 <a id="network"></a>
 
