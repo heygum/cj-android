@@ -4,7 +4,7 @@ description: 2020.01.19
 
 # 20 表达数值的字符串
 
-![https://leetcode-cn.com/problems/biao-shi-shu-zhi-de-zi-fu-chuan-lcof/](../../.gitbook/assets/image%20%2822%29.png)
+![https://leetcode-cn.com/problems/biao-shi-shu-zhi-de-zi-fu-chuan-lcof/](../../.gitbook/assets/image%20%2823%29.png)
 
 ```text
 class Solution {

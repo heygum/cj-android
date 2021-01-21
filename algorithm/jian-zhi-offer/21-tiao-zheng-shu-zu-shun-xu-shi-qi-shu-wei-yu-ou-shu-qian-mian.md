@@ -4,7 +4,7 @@ description: 2020.01.19
 
 # 21 调整数组顺序使奇数位于偶数前面
 
-![https://leetcode-cn.com/problems/diao-zheng-shu-zu-shun-xu-shi-qi-shu-wei-yu-ou-shu-qian-mian-lcof/](../../.gitbook/assets/image%20%2821%29.png)
+![https://leetcode-cn.com/problems/diao-zheng-shu-zu-shun-xu-shi-qi-shu-wei-yu-ou-shu-qian-mian-lcof/](../../.gitbook/assets/image%20%2822%29.png)
 
 Noob's Solution:
 
