@@ -50,6 +50,7 @@
   * [20 表达数值的字符串](algorithm/jian-zhi-offer/20-biao-da-shu-zhi-de-zi-fu-chuan.md)
   * [21 调整数组顺序使奇数位于偶数前面](algorithm/jian-zhi-offer/21-tiao-zheng-shu-zu-shun-xu-shi-qi-shu-wei-yu-ou-shu-qian-mian.md)
   * [22 链表中倒数第k个节点](algorithm/jian-zhi-offer/22-lian-biao-zhong-dao-shu-dikge-jie-dian.md)
+  * [24 反转链表](algorithm/jian-zhi-offer/24-fan-zhuan-lian-biao.md)
 
 ## 计算机网络 <a id="network"></a>
 
