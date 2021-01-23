@@ -41,3 +41,32 @@ class Solution {
 }
 ```
 
+刚开始瞬间写好的版本 :
+
+路是对的. 就是脑子不灵光.
+
+```text
+class Solution {
+    public ListNode mergeTwoLists(ListNode l1, ListNode l2) {
+        ListNode out = new ListNode(0);
+        ListNode cur = out;
+        while(l1 != null && l2 != null)
+        {
+            if(l1.val <= l2.val)
+            {
+                cur = l1;
+                l1 = l1.next;
+            }
+            else
+            {
+                cur = l2;
+                l2 = l2.next;
+            }
+            cur = cur.next;
+        }
+        
+        return out.next;
+    }
+}
+```
+
