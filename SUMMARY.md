@@ -52,6 +52,7 @@
   * [22 链表中倒数第k个节点](algorithm/jian-zhi-offer/22-lian-biao-zhong-dao-shu-dikge-jie-dian.md)
   * [24 反转链表](algorithm/jian-zhi-offer/24-fan-zhuan-lian-biao.md)
   * [25 合并两个排序的列表](algorithm/jian-zhi-offer/25-he-bing-liang-ge-pai-xu-de-lie-biao.md)
+  * [26 树的字结构](algorithm/jian-zhi-offer/26-shu-de-zi-jie-gou.md)
 
 ## 计算机网络 <a id="network"></a>
 
