@@ -55,6 +55,7 @@
   * [26 树的字结构](algorithm/jian-zhi-offer/26-shu-de-zi-jie-gou.md)
   * [27 二叉树的镜像](algorithm/jian-zhi-offer/27-er-cha-shu-de-jing-xiang.md)
   * [28 对称的二叉树](algorithm/jian-zhi-offer/28-dui-cheng-de-er-cha-shu.md)
+  * [29 瞬时间打印矩阵](algorithm/jian-zhi-offer/29-shun-shi-jian-da-yin-ju-zhen.md)
 
 ## 计算机网络 <a id="network"></a>
 
