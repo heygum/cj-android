@@ -4,7 +4,7 @@ description: 2020.01.23
 
 # 25 合并两个排序的列表
 
-![https://leetcode-cn.com/problems/he-bing-liang-ge-pai-xu-de-lian-biao-lcof/](../../.gitbook/assets/tu-pian-.png)
+![https://leetcode-cn.com/problems/he-bing-liang-ge-pai-xu-de-lian-biao-lcof/](../../.gitbook/assets/tu-pian-%20%281%29.png)
 
 
 
