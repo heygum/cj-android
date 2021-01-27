@@ -4,7 +4,7 @@ description: 2020.01.24
 
 # 26 树的字结构
 
-![https://leetcode-cn.com/problems/shu-de-zi-jie-gou-lcof/](../../.gitbook/assets/tu-pian-%20%284%29.png)
+![https://leetcode-cn.com/problems/shu-de-zi-jie-gou-lcof/](../../.gitbook/assets/tu-pian-%20%285%29.png)
 
 ```text
 class Solution {

@@ -4,7 +4,7 @@ description: 2020.01.25
 
 # 29 瞬时间打印矩阵
 
-![https://leetcode-cn.com/problems/shun-shi-zhen-da-yin-ju-zhen-lcof/](../../.gitbook/assets/tu-pian-%20%285%29.png)
+![https://leetcode-cn.com/problems/shun-shi-zhen-da-yin-ju-zhen-lcof/](../../.gitbook/assets/tu-pian-%20%286%29.png)
 
 ```text
 class Solution {

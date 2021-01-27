@@ -4,7 +4,7 @@ description: 2020.01.22
 
 # 24 反转链表
 
-![https://leetcode-cn.com/problems/fan-zhuan-lian-biao-lcof/](../../.gitbook/assets/tu-pian-%20%282%29.png)
+![https://leetcode-cn.com/problems/fan-zhuan-lian-biao-lcof/](../../.gitbook/assets/tu-pian-%20%283%29.png)
 
 
 

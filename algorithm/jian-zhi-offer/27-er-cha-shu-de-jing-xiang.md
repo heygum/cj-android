@@ -4,7 +4,7 @@ description: 2020.01.25
 
 # 27 二叉树的镜像
 
-![https://leetcode-cn.com/problems/er-cha-shu-de-jing-xiang-lcof/](../../.gitbook/assets/tu-pian-%20%283%29.png)
+![https://leetcode-cn.com/problems/er-cha-shu-de-jing-xiang-lcof/](../../.gitbook/assets/tu-pian-%20%284%29.png)
 
 
 
