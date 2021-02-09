@@ -59,6 +59,7 @@
   * [30 包含min函数的栈](algorithm/jian-zhi-offer/30-bao-han-min-han-shu-de-zhan.md)
   * [31 栈的压入,弹出序列](algorithm/jian-zhi-offer/31-zhan-de-ya-ru-tan-chu-xu-lie.md)
   * [32 - I  从上到下打印二叉树](algorithm/jian-zhi-offer/32-i-cong-shang-dao-xia-da-yin-er-cha-shu.md)
+  * [32 - II. 从上到下打印二叉树 II](algorithm/jian-zhi-offer/32-ii.-cong-shang-dao-xia-da-yin-er-cha-shu-ii.md)
 
 ## 计算机网络 <a id="network"></a>
 
