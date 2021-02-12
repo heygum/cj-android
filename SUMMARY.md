@@ -61,6 +61,7 @@
   * [32 - I  从上到下打印二叉树](algorithm/jian-zhi-offer/32-i-cong-shang-dao-xia-da-yin-er-cha-shu.md)
   * [32 - II. 从上到下打印二叉树 II](algorithm/jian-zhi-offer/32-ii.-cong-shang-dao-xia-da-yin-er-cha-shu-ii.md)
   * [32 - III. 从上到下打印二叉树 III](algorithm/jian-zhi-offer/32-iii.-cong-shang-dao-xia-da-yin-er-cha-shu-iii.md)
+  * [33. 二叉搜索树的后序遍历序列](algorithm/jian-zhi-offer/33.-er-cha-sou-suo-shu-de-hou-xu-bian-li-xu-lie.md)
 
 ## 计算机网络 <a id="network"></a>
 
