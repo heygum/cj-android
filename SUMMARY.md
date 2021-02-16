@@ -63,6 +63,7 @@
   * [32 - III. 从上到下打印二叉树 III](algorithm/jian-zhi-offer/32-iii.-cong-shang-dao-xia-da-yin-er-cha-shu-iii.md)
   * [33. 二叉搜索树的后序遍历序列](algorithm/jian-zhi-offer/33.-er-cha-sou-suo-shu-de-hou-xu-bian-li-xu-lie.md)
   * [34. 二叉树中和为某一值的路径](algorithm/jian-zhi-offer/34.-er-cha-shu-zhong-he-wei-mou-yi-zhi-de-lu-jing.md)
+  * [35. 复杂链表的复制](algorithm/jian-zhi-offer/35.-fu-za-lian-biao-de-fu-zhi.md)
 
 ## 计算机网络 <a id="network"></a>
 
