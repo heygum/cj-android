@@ -66,6 +66,7 @@
   * [35. 复杂链表的复制](algorithm/jian-zhi-offer/35.-fu-za-lian-biao-de-fu-zhi.md)
   * [36. 二叉搜索树与双向链表](algorithm/jian-zhi-offer/36.-er-cha-sou-suo-shu-yu-shuang-xiang-lian-biao.md)
   * [37. 序列化二叉树](algorithm/jian-zhi-offer/37.-xu-lie-hua-er-cha-shu.md)
+  * [38. 字符串的排列](algorithm/jian-zhi-offer/38.-zi-fu-chuan-de-pai-lie.md)
 
 ## 计算机网络 <a id="network"></a>
 
