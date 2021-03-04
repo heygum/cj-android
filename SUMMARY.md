@@ -68,6 +68,7 @@
   * [37. 序列化二叉树](algorithm/jian-zhi-offer/37.-xu-lie-hua-er-cha-shu.md)
   * [38. 字符串的排列](algorithm/jian-zhi-offer/38.-zi-fu-chuan-de-pai-lie.md)
   * [39. 数组中出现次数超过一半的数字](algorithm/jian-zhi-offer/39.-shu-zu-zhong-chu-xian-ci-shu-chao-guo-yi-ban-de-shu-zi.md)
+  * [40. 最小的k个数](algorithm/jian-zhi-offer/40.-zui-xiao-dekge-shu.md)
 
 ## 计算机网络 <a id="network"></a>
 
