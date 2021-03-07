@@ -70,6 +70,7 @@
   * [39. 数组中出现次数超过一半的数字](algorithm/jian-zhi-offer/39.-shu-zu-zhong-chu-xian-ci-shu-chao-guo-yi-ban-de-shu-zi.md)
   * [40. 最小的k个数](algorithm/jian-zhi-offer/40.-zui-xiao-dekge-shu.md)
   * [41. 数据流中的中位数](algorithm/jian-zhi-offer/41.-shu-ju-liu-zhong-de-zhong-wei-shu.md)
+  * [42. 连续子数组的最大和](algorithm/jian-zhi-offer/42.-lian-xu-zi-shu-zu-de-zui-da-he.md)
 
 ## 计算机网络 <a id="network"></a>
 
