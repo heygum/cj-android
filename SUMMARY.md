@@ -71,6 +71,7 @@
   * [40. 最小的k个数](algorithm/jian-zhi-offer/40.-zui-xiao-dekge-shu.md)
   * [41. 数据流中的中位数](algorithm/jian-zhi-offer/41.-shu-ju-liu-zhong-de-zhong-wei-shu.md)
   * [42. 连续子数组的最大和](algorithm/jian-zhi-offer/42.-lian-xu-zi-shu-zu-de-zui-da-he.md)
+  * [43. 1～n 整数中 1 出现的次数](algorithm/jian-zhi-offer/43.-1n-zheng-shu-zhong-1-chu-xian-de-ci-shu.md)
 
 ## 计算机网络 <a id="network"></a>
 
