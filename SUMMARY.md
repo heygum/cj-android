@@ -72,6 +72,7 @@
   * [41. 数据流中的中位数](algorithm/jian-zhi-offer/41.-shu-ju-liu-zhong-de-zhong-wei-shu.md)
   * [42. 连续子数组的最大和](algorithm/jian-zhi-offer/42.-lian-xu-zi-shu-zu-de-zui-da-he.md)
   * [43. 1～n 整数中 1 出现的次数](algorithm/jian-zhi-offer/43.-1n-zheng-shu-zhong-1-chu-xian-de-ci-shu.md)
+  * [44. 数字序列中某一位的数字](algorithm/jian-zhi-offer/44.-shu-zi-xu-lie-zhong-mou-yi-wei-de-shu-zi.md)
 
 ## 计算机网络 <a id="network"></a>
 
