@@ -75,6 +75,7 @@
   * [44. 数字序列中某一位的数字](algorithm/jian-zhi-offer/44.-shu-zi-xu-lie-zhong-mou-yi-wei-de-shu-zi.md)
   * [45. 把数组排成最小的数](algorithm/jian-zhi-offer/45.-ba-shu-zu-pai-cheng-zui-xiao-de-shu.md)
   * [46. 把数字翻译成字符串](algorithm/jian-zhi-offer/46.-ba-shu-zi-fan-yi-cheng-zi-fu-chuan.md)
+  * [47. 礼物的最大价值](algorithm/jian-zhi-offer/47.-li-wu-de-zui-da-jia-zhi.md)
 
 ## 计算机网络 <a id="network"></a>
 
