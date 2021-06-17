@@ -76,6 +76,7 @@
   * [45. 把数组排成最小的数](algorithm/jian-zhi-offer/45.-ba-shu-zu-pai-cheng-zui-xiao-de-shu.md)
   * [46. 把数字翻译成字符串](algorithm/jian-zhi-offer/46.-ba-shu-zi-fan-yi-cheng-zi-fu-chuan.md)
   * [47. 礼物的最大价值](algorithm/jian-zhi-offer/47.-li-wu-de-zui-da-jia-zhi.md)
+  * [48. 最长不含重复字符的子字符串](algorithm/jian-zhi-offer/48.-zui-chang-bu-han-zhong-fu-zi-fu-de-zi-zi-fu-chuan.md)
 
 ## 计算机网络 <a id="network"></a>
 
