@@ -78,6 +78,7 @@
   * [47. 礼物的最大价值](algorithm/jian-zhi-offer/47.-li-wu-de-zui-da-jia-zhi.md)
   * [48. 最长不含重复字符的子字符串](algorithm/jian-zhi-offer/48.-zui-chang-bu-han-zhong-fu-zi-fu-de-zi-zi-fu-chuan.md)
   * [49. 丑数](algorithm/jian-zhi-offer/49.-chou-shu.md)
+  * [50. 第一个只出现一次的字符](algorithm/jian-zhi-offer/50.-di-yi-ge-zhi-chu-xian-yi-ci-de-zi-fu.md)
 
 ## 计算机网络 <a id="network"></a>
 
