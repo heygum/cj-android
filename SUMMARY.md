@@ -80,6 +80,7 @@
   * [49. 丑数](algorithm/jian-zhi-offer/49.-chou-shu.md)
   * [50. 第一个只出现一次的字符](algorithm/jian-zhi-offer/50.-di-yi-ge-zhi-chu-xian-yi-ci-de-zi-fu.md)
   * [51. 数组中的逆序对](algorithm/jian-zhi-offer/51.-shu-zu-zhong-de-ni-xu-dui.md)
+  * [52. 两个链表的第一个公共节点](algorithm/jian-zhi-offer/52.-liang-ge-lian-biao-de-di-yi-ge-gong-gong-jie-dian.md)
 
 ## 计算机网络 <a id="network"></a>
 
