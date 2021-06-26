@@ -82,6 +82,7 @@
   * [51. 数组中的逆序对](algorithm/jian-zhi-offer/51.-shu-zu-zhong-de-ni-xu-dui.md)
   * [52. 两个链表的第一个公共节点](algorithm/jian-zhi-offer/52.-liang-ge-lian-biao-de-di-yi-ge-gong-gong-jie-dian.md)
   * [53 - I. 在排序数组中查找数字 I](algorithm/jian-zhi-offer/53-i.-zai-pai-xu-shu-zu-zhong-cha-zhao-shu-zi-i.md)
+  * [53 - II. 0～n-1中缺失的数字](algorithm/jian-zhi-offer/53-ii.-0n1-zhong-que-shi-de-shu-zi.md)
 
 ## 计算机网络 <a id="network"></a>
 
