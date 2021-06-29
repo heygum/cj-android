@@ -84,6 +84,7 @@
   * [53 - I. 在排序数组中查找数字 I](algorithm/jian-zhi-offer/53-i.-zai-pai-xu-shu-zu-zhong-cha-zhao-shu-zi-i.md)
   * [53 - II. 0～n-1中缺失的数字](algorithm/jian-zhi-offer/53-ii.-0n1-zhong-que-shi-de-shu-zi.md)
   * [54. 二叉搜索树的第k大节点](algorithm/jian-zhi-offer/54.-er-cha-sou-suo-shu-de-dikda-jie-dian.md)
+  * [55 - I. 二叉树的深度](algorithm/jian-zhi-offer/55-i.-er-cha-shu-de-shen-du.md)
 
 ## 计算机网络 <a id="network"></a>
 
