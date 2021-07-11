@@ -87,6 +87,7 @@
   * [55 - I. 二叉树的深度](algorithm/jian-zhi-offer/55-i.-er-cha-shu-de-shen-du.md)
   * [55 - II. 平衡二叉树](algorithm/jian-zhi-offer/55-ii.-ping-heng-er-cha-shu.md)
   * [56 - I. 数组中数字出现的次数](algorithm/jian-zhi-offer/56-i.-shu-zu-zhong-shu-zi-chu-xian-de-ci-shu.md)
+  * [56 - II. 数组中数字出现的次数 II](algorithm/jian-zhi-offer/56-ii.-shu-zu-zhong-shu-zi-chu-xian-de-ci-shu-ii.md)
 
 ## 计算机网络 <a id="network"></a>
 
