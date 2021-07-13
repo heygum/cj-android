@@ -89,6 +89,7 @@
   * [56 - I. 数组中数字出现的次数](algorithm/jian-zhi-offer/56-i.-shu-zu-zhong-shu-zi-chu-xian-de-ci-shu.md)
   * [56 - II. 数组中数字出现的次数 II](algorithm/jian-zhi-offer/56-ii.-shu-zu-zhong-shu-zi-chu-xian-de-ci-shu-ii.md)
   * [57. 和为s的两个数字](algorithm/jian-zhi-offer/57.-he-weisde-liang-ge-shu-zi.md)
+  * [57 - II. 和为s的连续正数序列](algorithm/jian-zhi-offer/57-ii.-he-weisde-lian-xu-zheng-shu-xu-lie.md)
 
 ## 计算机网络 <a id="network"></a>
 
