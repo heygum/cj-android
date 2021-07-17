@@ -93,6 +93,17 @@
   * [58 - I. 翻转单词顺序](algorithm/jian-zhi-offer/58-i.-fan-zhuan-dan-ci-shun-xu.md)
   * [58 - II. 左旋转字符串](algorithm/jian-zhi-offer/58-ii.-zuo-xuan-zhuan-zi-fu-chuan.md)
   * [59 - I. 滑动窗口的最大值](algorithm/jian-zhi-offer/59-i.-hua-dong-chuang-kou-de-zui-da-zhi.md)
+  * [59 - II. 队列的最大值](algorithm/jian-zhi-offer/59-ii.-dui-lie-de-zui-da-zhi.md)
+  * [60. n个骰子的点数](algorithm/jian-zhi-offer/60.nge-tou-zi-de-dian-shu.md)
+  * [61. 扑克牌中的顺子](algorithm/jian-zhi-offer/61.-pu-ke-pai-zhong-de-shun-zi.md)
+  * [62. 圆圈中最后剩下的数字](algorithm/jian-zhi-offer/62.-yuan-quan-zhong-zui-hou-sheng-xia-de-shu-zi.md)
+  * [63. 股票的最大利润](algorithm/jian-zhi-offer/63.-gu-piao-de-zui-da-li-run.md)
+  * [64. 求1+2+…+n](algorithm/jian-zhi-offer/64.-qiu-1+2++n.md)
+  * [65. 不用加减乘除做加法](algorithm/jian-zhi-offer/65.-bu-yong-jia-jian-cheng-chu-zuo-jia-fa.md)
+  * [66. 构建乘积数组](algorithm/jian-zhi-offer/66.-gou-jian-cheng-ji-shu-zu.md)
+  * [67. 把字符串转换成整数](algorithm/jian-zhi-offer/67.-ba-zi-fu-chuan-zhuan-huan-cheng-zheng-shu.md)
+  * [68 - I. 二叉搜索树的最近公共祖先](algorithm/jian-zhi-offer/68-i.-er-cha-sou-suo-shu-de-zui-jin-gong-gong-zu-xian.md)
+  * [68 - II. 二叉树的最近公共祖先](algorithm/jian-zhi-offer/68-ii.-er-cha-shu-de-zui-jin-gong-gong-zu-xian.md)
 
 ## 计算机网络 <a id="network"></a>
 
