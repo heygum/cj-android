@@ -92,6 +92,7 @@
   * [57 - II. 和为s的连续正数序列](algorithm/jian-zhi-offer/57-ii.-he-weisde-lian-xu-zheng-shu-xu-lie.md)
   * [58 - I. 翻转单词顺序](algorithm/jian-zhi-offer/58-i.-fan-zhuan-dan-ci-shun-xu.md)
   * [58 - II. 左旋转字符串](algorithm/jian-zhi-offer/58-ii.-zuo-xuan-zhuan-zi-fu-chuan.md)
+  * [59 - I. 滑动窗口的最大值](algorithm/jian-zhi-offer/59-i.-hua-dong-chuang-kou-de-zui-da-zhi.md)
 
 ## 计算机网络 <a id="network"></a>
 
