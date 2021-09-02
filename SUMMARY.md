@@ -12,6 +12,9 @@
 
 * [简介](algorithm/jian-jie-1.md)
 * [进度](algorithm/jian-jie.md)
+* [题型](algorithm/ti-xing/README.md)
+  * [二分查找](algorithm/ti-xing/er-fen-cha-zhao/README.md)
+    * [704. 二分查找](algorithm/ti-xing/er-fen-cha-zhao/704.-er-fen-cha-zhao.md)
 * [数据结构](algorithm/shu-ju-jie-gou/README.md)
   * [动态数组](algorithm/shu-ju-jie-gou/dong-tai-shu-zu.md)
   * [普通队列](algorithm/shu-ju-jie-gou/pu-tong-dui-lie.md)
@@ -107,7 +110,7 @@
 
 ## 计算机网络 <a id="network"></a>
 
-* [进度](network/jian-jie.md)
+* [简介](network/jian-jie.md)
 
 ## 操作系统 <a id="os"></a>
 
@@ -115,5 +118,5 @@
 
 ## Android
 
-* [进度](android/jian-jie.md)
+* [简介](android/jian-jie.md)
 
