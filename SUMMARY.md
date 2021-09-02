@@ -14,6 +14,7 @@
 * [进度](algorithm/jian-jie.md)
 * [题型](algorithm/ti-xing/README.md)
   * [二分查找](algorithm/ti-xing/er-fen-cha-zhao/README.md)
+    * [278. 第一个错误的版本](algorithm/ti-xing/er-fen-cha-zhao/278.-di-yi-ge-cuo-wu-de-ban-ben.md)
     * [NC105 二分查找-II](algorithm/ti-xing/er-fen-cha-zhao/nc105-er-fen-cha-zhao-ii.md)
     * [704. 二分查找](algorithm/ti-xing/er-fen-cha-zhao/704.-er-fen-cha-zhao.md)
 * [数据结构](algorithm/shu-ju-jie-gou/README.md)
