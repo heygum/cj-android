@@ -1,6 +1,6 @@
 # NC105 二分查找-II
 
-![](../../../.gitbook/assets/tu-pian-%20%2844%29.png)
+![](../../../.gitbook/assets/tu-pian-%20%2845%29.png)
 
 My code\(23%\):
 

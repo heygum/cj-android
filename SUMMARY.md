@@ -13,6 +13,8 @@
 * [简介](algorithm/jian-jie-1.md)
 * [进度](algorithm/jian-jie.md)
 * [题型](algorithm/ti-xing/README.md)
+  * [简单](algorithm/ti-xing/jian-dan/README.md)
+    * [1. 两数之和](algorithm/ti-xing/jian-dan/1.-liang-shu-zhi-he.md)
   * [二分查找](algorithm/ti-xing/er-fen-cha-zhao/README.md)
     * [35. 搜索插入位置](algorithm/ti-xing/er-fen-cha-zhao/35.-sou-suo-cha-ru-wei-zhi.md)
     * [278. 第一个错误的版本](algorithm/ti-xing/er-fen-cha-zhao/278.-di-yi-ge-cuo-wu-de-ban-ben.md)
