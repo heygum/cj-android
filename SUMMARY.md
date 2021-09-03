@@ -20,6 +20,8 @@
     * [278. 第一个错误的版本](algorithm/ti-xing/er-fen-cha-zhao/278.-di-yi-ge-cuo-wu-de-ban-ben.md)
     * [NC105 二分查找-II](algorithm/ti-xing/er-fen-cha-zhao/nc105-er-fen-cha-zhao-ii.md)
     * [704. 二分查找](algorithm/ti-xing/er-fen-cha-zhao/704.-er-fen-cha-zhao.md)
+  * [双指针](algorithm/ti-xing/shuang-zhi-zhen/README.md)
+    * [977. 有序数组的平方](algorithm/ti-xing/shuang-zhi-zhen/977.-you-xu-shu-zu-de-ping-fang.md)
 * [数据结构](algorithm/shu-ju-jie-gou/README.md)
   * [动态数组](algorithm/shu-ju-jie-gou/dong-tai-shu-zu.md)
   * [普通队列](algorithm/shu-ju-jie-gou/pu-tong-dui-lie.md)
