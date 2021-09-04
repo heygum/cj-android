@@ -13,6 +13,8 @@
 * [简介](algorithm/jian-jie-1.md)
 * [进度](algorithm/jian-jie.md)
 * [题型](algorithm/ti-xing/README.md)
+  * [链表](algorithm/ti-xing/lian-biao/README.md)
+    * [21. 合并两个有序链表](algorithm/ti-xing/lian-biao/21.-he-bing-liang-ge-you-xu-lian-biao.md)
   * [面试遇到](algorithm/ti-xing/mian-shi-yu-dao/README.md)
     * [数字转Excel列名](algorithm/ti-xing/mian-shi-yu-dao/untitled-1.md)
   * [栈](algorithm/ti-xing/zhan/README.md)
