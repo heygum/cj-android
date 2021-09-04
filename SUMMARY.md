@@ -15,6 +15,8 @@
 * [题型](algorithm/ti-xing/README.md)
   * [分治](algorithm/ti-xing/fen-zhi/README.md)
     * [53. 最大子序和\(动态规划\)](algorithm/ti-xing/fen-zhi/53.-zui-da-zi-xu-he-dong-tai-gui-hua.md)
+  * [动态规划](algorithm/ti-xing/dong-tai-gui-hua/README.md)
+    * [121. 买卖股票的最佳时机](algorithm/ti-xing/dong-tai-gui-hua/121.-mai-mai-gu-piao-de-zui-jia-shi-ji.md)
   * [链表](algorithm/ti-xing/lian-biao/README.md)
     * [21. 合并两个有序链表](algorithm/ti-xing/lian-biao/21.-he-bing-liang-ge-you-xu-lian-biao.md)
   * [面试遇到](algorithm/ti-xing/mian-shi-yu-dao/README.md)
