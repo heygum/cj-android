@@ -17,3 +17,9 @@ Class Solution{
 
 如果要自己处理输入输出, 去牛客刷刷看.
 
+分类:
+
+{% embed url="https://docs.google.com/spreadsheets/d/1SbpY-04Cz8EWw3A\_LBUmDEXKUMO31DBjfeMoA0dlfIA/edit\#gid=0" %}
+
+
+
